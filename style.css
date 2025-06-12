@@ -10,3 +10,13 @@
         .border{
         border: 2px solid skyblue
         }
+        .flex-container div{
+            background-color: lightgrey;
+            border: 2px solid brown;
+            height: 100px ;
+            width: 100px
+        }
+        .item2{
+            flex-shrink: 0;
+        }
+
