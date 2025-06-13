@@ -10,6 +10,13 @@
         .border{
         border: 2px solid skyblue
         }
+        .flex-container{
+            display:flex;
+            justify-content: space-around;
+            align-items: flex-end;
+            background-color: lightcoral;
+            height: 100vh;
+        }
         .flex-container div{
             background-color: lightgrey;
             border: 2px solid brown;
